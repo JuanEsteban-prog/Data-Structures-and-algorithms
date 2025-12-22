@@ -1,0 +1,1 @@
+- Data Structure: A named location that can be used to store and organize data
